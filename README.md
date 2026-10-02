@@ -28,7 +28,7 @@ https://cdn.jsdelivr.net/gh/KKKKKK66666688/douban-hub@main/douban.json
 
 ## 本次打包
 
-- 打包时间：2026-10-02 11:34
+- 打包时间：2026-10-02 11:43
 - 站点数：199（已排除含登录凭据的站点：┃哔哩┃影视（key 哔哩弹幕，人工列入排除名单））
 - 直播分组：7 组
-- douban.js：796,306 字节，sha256 4610C5EE53D9A84FB5B5F1DEF0A56A6D84D997D4DBB1377CA4BE17F6528114A1
+- douban.js：796,307 字节，sha256 1014338DB25C125F44CC1CC5371CC1AA6FBA9025FBCC2118D8B48CB829B0F52C
