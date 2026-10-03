@@ -44,7 +44,7 @@ https://cdn.jsdelivr.net/gh/KKKKKK66666688/douban-hub@main/douban-kids.json
 
 ## 本次打包
 
-- 打包时间：2026-10-03 14:06
+- 打包时间：2026-10-03 15:09
 - 站点数：1（key douban_kids）
 - 直播分组：7 组
-- douban-kids.js：423,580 字节，sha256 2BB59ED5C3109B098BF99E5D277A2E5C9E46219220147D08273EF836F9490D6E
+- douban-kids.js：425,334 字节，sha256 4FC8B1D12AE94D0E4B6A5B9BFDB66A8496467793A6F526C4A614C1765B7E0795
