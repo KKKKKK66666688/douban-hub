@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "douban_kids",
-      "name": "豆瓣┃儿童 · 10-04 00:07 更新",
+      "name": "豆瓣┃儿童 · 10-04 00:25 更新",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/KKKKKK66666688/douban-hub@main/drpy2.min.js",
       "ext": "https://cdn.jsdelivr.net/gh/KKKKKK66666688/douban-hub@main/douban-kids.js",
@@ -55,11 +55,14 @@
         "bfeng",
         "bfllvip",
         "bfzy",
-        "s5.bfzycdn"
+        "s5.bfzycdn",
+        "rrcdnbf",
+        "ddbbffcdn",
+        "bvv+1f"
       ],
       "regex": [
         "#EXTINF:[^\\r\\n]*\\r?\\n[^\\r\\n]*adjump[^\\r\\n]*\\.ts\\r?\\n?",
-        "#EXT-X-DISCONTINUITY\\r?\\n#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+        "#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:3,[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n(?:(?:#EXTINF:[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n){0,10})#EXT-X-DISCONTINUITY"
       ]
     },
     {
