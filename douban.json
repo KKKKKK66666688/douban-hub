@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "douban_hub",
-      "name": "豆瓣┃精选 · 10-02 23:05 更新",
+      "name": "豆瓣┃精选 · 10-03 09:36 更新",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/KKKKKK66666688/douban-hub@main/drpy2.min.js",
       "ext": "https://cdn.jsdelivr.net/gh/KKKKKK66666688/douban-hub@main/douban.js",
@@ -2593,6 +2593,34 @@
         "#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:5.320000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:3.360000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
         "#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:4.000000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:0.560000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
         "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "量子纯净-广告",
+      "hosts": [
+        "lzcdn",
+        "lzcdn27.com",
+        "lzcdn31.com",
+        "vip.lz",
+        "hd.lz",
+        "v.cdnlz"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\s*\\r?\\n(?:#EXTINF:4\\.000,[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts\\r?\\n){6}#EXTINF:1\\.700,[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts\\r?\\n"
+      ]
+    },
+    {
+      "name": "暴风极速-广告",
+      "hosts": [
+        "fengbao",
+        "bfeng",
+        "bfllvip",
+        "bfzy",
+        "s5.bfzycdn"
+      ],
+      "regex": [
+        "#EXTINF:[^\\r\\n]*\\r?\\n[^\\r\\n]*adjump[^\\r\\n]*\\.ts\\r?\\n?",
+        "#EXT-X-DISCONTINUITY\\r?\\n#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
       ]
     }
   ],
