@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "douban_hub",
-      "name": "豆瓣┃精选 · 10-03 09:36 更新",
+      "name": "豆瓣┃精选 · 10-03 09:49 更新",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/KKKKKK66666688/douban-hub@main/drpy2.min.js",
       "ext": "https://cdn.jsdelivr.net/gh/KKKKKK66666688/douban-hub@main/douban.js",
@@ -2621,6 +2621,33 @@
       "regex": [
         "#EXTINF:[^\\r\\n]*\\r?\\n[^\\r\\n]*adjump[^\\r\\n]*\\.ts\\r?\\n?",
         "#EXT-X-DISCONTINUITY\\r?\\n#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "天堂蓝光-广告",
+      "hosts": [
+        "jimxtc",
+        "phimgood",
+        "dytt-tvs",
+        "dytt"
+      ],
+      "regex": [
+        "#EXTINF:5\\.56[67][^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n(?:#EXT-X-DISCONTINUITY[^\\r\\n]*\\r?\\n)*#EXTINF:2\\.933[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n(?:#EXT-X-DISCONTINUITY[^\\r\\n]*\\r?\\n)*#EXTINF:5\\.700[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n(?:#EXT-X-DISCONTINUITY[^\\r\\n]*\\r?\\n)*#EXTINF:3\\.333[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n(?:#EXT-X-DISCONTINUITY[^\\r\\n]*\\r?\\n)*#EXTINF:1\\.533[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n",
+        "#EXTINF:6\\.666[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n(?:#EXT-X-DISCONTINUITY[^\\r\\n]*\\r?\\n)*#EXTINF:2\\.133[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n(?:#EXT-X-DISCONTINUITY[^\\r\\n]*\\r?\\n)*#EXTINF:3\\.233[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n(?:#EXT-X-DISCONTINUITY[^\\r\\n]*\\r?\\n)*#EXTINF:3\\.733[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n"
+      ]
+    },
+    {
+      "name": "非凡超清-广告",
+      "hosts": [
+        "ffzy-plays",
+        "ffzy-online",
+        "vip\\.ffzy",
+        "hd\\.ffzy",
+        "ffzy"
+      ],
+      "regex": [
+        "#EXTINF:4\\.866[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n(?:#EXT-X-DISCONTINUITY[^\\r\\n]*\\r?\\n)*#EXTINF:3\\.333[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n(?:#EXT-X-DISCONTINUITY[^\\r\\n]*\\r?\\n)*#EXTINF:5\\.600[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n(?:#EXT-X-DISCONTINUITY[^\\r\\n]*\\r?\\n)*#EXTINF:2\\.866[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n(?:#EXT-X-DISCONTINUITY[^\\r\\n]*\\r?\\n)*#EXTINF:2\\.966[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n",
+        "#EXTINF:6\\.96[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n(?:#EXT-X-DISCONTINUITY[^\\r\\n]*\\r?\\n)*#EXTINF:4\\.000[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n(?:#EXT-X-DISCONTINUITY[^\\r\\n]*\\r?\\n)*#EXTINF:2\\.56[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n(?:#EXT-X-DISCONTINUITY[^\\r\\n]*\\r?\\n)*#EXTINF:3\\.84[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n"
       ]
     }
   ],
