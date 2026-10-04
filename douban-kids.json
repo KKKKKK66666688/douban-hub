@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "douban_kids",
-      "name": "豆瓣┃儿童 · 10-04 11:18 更新",
+      "name": "豆瓣┃儿童 · 10-04 11:41 更新",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/KKKKKK66666688/douban-hub@main/drpy2.min.js",
       "ext": "https://cdn.jsdelivr.net/gh/KKKKKK66666688/douban-hub@main/douban-kids.js",
@@ -17,7 +17,7 @@
         "type": "rect",
         "ratio": 1.33
       },
-      "filterable": 0
+      "filterable": 1
     }
   ],
   "rules": [
