@@ -44,7 +44,7 @@ https://cdn.jsdelivr.net/gh/KKKKKK66666688/douban-hub@main/douban-kids.json
 
 ## 本次打包
 
-- 打包时间：2026-10-06 17:22
+- 打包时间：2026-10-06 17:37
 - 站点数：6（key douban_kids + Aid/少儿教育/小学课堂/初中课堂/高中教育）
 - 直播分组：7 组
-- douban-kids.js：413,193 字节，sha256 CE34E01F2A1D7CD30B271367D399630670E4938DFE9E9064E6315250DD3B8DE8
+- douban-kids.js：412,689 字节，sha256 CBF8FBCCF4B9EF628EEC2F9DFBC8ACFEB690D922F6E130891CC1BF900847328F
