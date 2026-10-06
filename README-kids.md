@@ -15,7 +15,7 @@ https://cdn.jsdelivr.net/gh/KKKKKK66666688/douban-hub@main/douban-kids.json
 
 | 项 | 大人版 douban.json | 儿童版 douban-kids.json |
 | --- | --- | --- |
-| 站点 | 豆瓣┃精选 + 其余第三方站点 | 只有「豆瓣┃儿童」1 个 |
+| 站点 | 豆瓣┃精选 + 其余第三方站点 | 豆瓣┃儿童 + 5 个教育类站点（急救/少儿/小学/初中/高中）|
 | 过滤 | 不额外过滤 | 按类型白名单过滤，再叠加两份人工名单 |
 | 直播 | 7 组 | 同样 7 组（内容一致） |
 
@@ -44,7 +44,7 @@ https://cdn.jsdelivr.net/gh/KKKKKK66666688/douban-hub@main/douban-kids.json
 
 ## 本次打包
 
-- 打包时间：2026-10-06 16:34
-- 站点数：1（key douban_kids）
+- 打包时间：2026-10-06 16:58
+- 站点数：6（key douban_kids + Aid/少儿教育/小学课堂/初中课堂/高中教育）
 - 直播分组：7 组
 - douban-kids.js：419,376 字节，sha256 56E6F38842469CE9F87F99B1F0109D7A4C8B9AE39CEC243097CDA6E68DF61AF0
