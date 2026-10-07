@@ -8,7 +8,7 @@
 在影视仓「配置地址」里填：
 
 ```
-https://cdn.jsdelivr.net/gh/KKKKKK66666688/douban-hub@main/douban-kids.json
+https://git.yylx.win/https://raw.githubusercontent.com/KKKKKK66666688/douban-hub/refs/heads/main/douban-kids.json
 ```
 
 ## 与大人版的区别
@@ -44,7 +44,7 @@ https://cdn.jsdelivr.net/gh/KKKKKK66666688/douban-hub@main/douban-kids.json
 
 ## 本次打包
 
-- 打包时间：2026-10-07 09:53
+- 打包时间：2026-10-07 10:07
 - 站点数：6（key douban_kids + Aid/少儿教育/小学课堂/初中课堂/高中教育）
 - 直播分组：7 组
 - douban-kids.js：374,420 字节，sha256 12B831B0B373118C930FA241DE02CB8D8377EC98F6B703066A169DF5C365ADCD
