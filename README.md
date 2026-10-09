@@ -28,7 +28,7 @@ https://git.yylx.win/https://raw.githubusercontent.com/KKKKKK66666688/douban-hub
 
 ## 本次打包
 
-- 打包时间：2026-10-09 21:06
+- 打包时间：2026-10-09 21:15
 - 站点数：201（已排除含登录凭据的站点：┃哔哩┃影视（key 哔哩弹幕，人工列入排除名单））
 - 直播分组：7 组
-- douban.js：911,868 字节，sha256 D7894408212E98A4B7580B38A03801987BC1CFB7B5A3432B65EC25066DDC2D7C
+- douban.js：912,568 字节，sha256 27D469121FDE1E43107C023C9ADB2D335DC60D09611BF0A71CDCF5C2D0253945
