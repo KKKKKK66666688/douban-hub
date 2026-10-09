@@ -5,10 +5,10 @@
   "sites": [
     {
       "key": "douban_hub",
-      "name": "豆瓣┃精选 · 10-09 21:29 更新",
+      "name": "豆瓣┃精选 · 10-09 21:41 更新",
       "type": 3,
-      "api": "https://git.yylx.win/https://raw.githubusercontent.com/KKKKKK66666688/douban-hub/refs/heads/main/drpy2.min.js",
-      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/KKKKKK66666688/douban-hub/refs/heads/main/douban.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/KKKKKK66666688/douban-hub/refs/heads/main/drpy2.min.js?v=202610092141",
+      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/KKKKKK66666688/douban-hub/refs/heads/main/douban.js?v=202610092141",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -2598,10 +2598,10 @@
     },
     {
       "key": "douban_kids",
-      "name": "豆瓣┃儿童 · 10-09 21:29 更新",
+      "name": "豆瓣┃儿童 · 10-09 21:41 更新",
       "type": 3,
-      "api": "https://git.yylx.win/https://raw.githubusercontent.com/KKKKKK66666688/douban-hub/refs/heads/main/drpy2.min.js",
-      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/KKKKKK66666688/douban-hub/refs/heads/main/douban-kids.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/KKKKKK66666688/douban-hub/refs/heads/main/drpy2.min.js?v=202610092141",
+      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/KKKKKK66666688/douban-hub/refs/heads/main/douban-kids.js?v=202610092141",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
