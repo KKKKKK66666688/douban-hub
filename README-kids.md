@@ -44,7 +44,7 @@ https://git.yylx.win/https://raw.githubusercontent.com/KKKKKK66666688/douban-hub
 
 ## 本次打包
 
-- 打包时间：2026-10-15 10:55
+- 打包时间：2026-10-16 10:57
 - 站点数：6（key douban_kids + Aid/少儿教育/小学课堂/初中课堂/高中教育）
 - 直播分组：7 组
-- douban-kids.js：368,036 字节，sha256 AEB847D7135B2EC67A3CFEABA9123CD109F8D2B97C4BF2DF62E34CF4BC53D94A
+- douban-kids.js：368,522 字节，sha256 FC8844EDBCA2F78EA24031587D30CDDCC69AD5BABA5C0E846FFB5ECBBDF56A5D
