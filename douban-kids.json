@@ -5,10 +5,10 @@
   "sites": [
     {
       "key": "douban_kids",
-      "name": "豆瓣┃儿童 · 10-19 16:09 更新",
+      "name": "豆瓣┃儿童 · 10-19 17:01 更新",
       "type": 3,
       "api": "https://git.yylx.win/https://raw.githubusercontent.com/KKKKKK66666688/douban-hub/refs/heads/main/drpy2.min.js",
-      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/KKKKKK66666688/douban-hub/refs/heads/main/douban-kids.js?v=1792397344258",
+      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/KKKKKK66666688/douban-hub/refs/heads/main/douban-kids.js?v=1792400463302",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
