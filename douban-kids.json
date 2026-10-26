@@ -1,14 +1,14 @@
 {
-  "spider": "https://www.252035.xyz/p/pg.jar",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/KKKKKK66666688/douban-hub/refs/heads/main/jar/spider.jar",
   "wallpaper": "https://cdn.jsdelivr.net/gh/KKKKKK66666688/douban-hub@main/bg.jpg",
   "logo": "https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",
   "sites": [
     {
       "key": "douban_kids",
-      "name": "豆瓣┃儿童 · 10-26 20:23 更新",
+      "name": "豆瓣┃儿童 · 10-26 21:05 更新",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/KKKKKK66666688/douban-hub/refs/heads/main/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/KKKKKK66666688/douban-hub/refs/heads/main/douban-kids.js?v=1793017383632",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/KKKKKK66666688/douban-hub/refs/heads/main/douban-kids.js?v=1793019910241",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
