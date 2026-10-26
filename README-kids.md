@@ -44,7 +44,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/KKKKKK66666688/douban-hub
 
 ## 本次打包
 
-- 打包时间：2026-10-26 21:05
+- 打包时间：2026-10-26 21:09
 - 站点数：6（key douban_kids + Aid/少儿教育/小学课堂/初中课堂/高中教育）
 - 直播分组：7 组
 - douban-kids.js：496,112 字节，sha256 E03373B211CF84A832F99DFEFC89086FC31DFA637BB0B9476DEA7B28607D5E45
