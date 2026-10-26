@@ -7,7 +7,7 @@
 在影视仓「配置地址」里填：
 
 ```
-https://douban-hub.ken910723.workers.dev/?u=douban.json
+https://cdn.jsdelivr.net/gh/KKKKKK66666688/douban-hub@main/douban.json
 ```
 
 ## 文件
@@ -28,7 +28,7 @@ https://douban-hub.ken910723.workers.dev/?u=douban.json
 
 ## 本次打包
 
-- 打包时间：2026-10-26 19:27
+- 打包时间：2026-10-26 20:08
 - 站点数：201（已排除含登录凭据的站点：┃哔哩┃影视（key 哔哩弹幕，人工列入排除名单））
 - 直播分组：7 组
 - douban.js：910,461 字节，sha256 B3A90F3FC4B71FA9DE0209188596538BFB42534CDA529335BCCD9344D1F432AA
