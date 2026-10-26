@@ -5,10 +5,10 @@
   "sites": [
     {
       "key": "douban_kids",
-      "name": "豆瓣┃儿童 · 10-26 19:27 更新",
+      "name": "豆瓣┃儿童 · 10-26 20:08 更新",
       "type": 3,
-      "api": "https://douban-hub.ken910723.workers.dev/?u=drpy2.min.js",
-      "ext": "https://douban-hub.ken910723.workers.dev/?u=douban-kids.js?v=1793014034547",
+      "api": "https://cdn.jsdelivr.net/gh/KKKKKK66666688/douban-hub@main/drpy2.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/KKKKKK66666688/douban-hub@main/douban-kids.js?v=1793016518141",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
