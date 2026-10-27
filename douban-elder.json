@@ -5,7 +5,7 @@
  "sites": [
   {
    "key": "douban_elder",
-   "name": "豆瓣┃老人家",
+   "name": "豆瓣┃老年版",
    "type": 3,
    "api": "https://tv.crossborderhelper.top/drpy2.min.js",
    "ext": "https://tv.crossborderhelper.top/douban-elder.js",
