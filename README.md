@@ -7,7 +7,7 @@
 在影视仓「配置地址」里填：
 
 ```
-https://gh-proxy.com/https://raw.githubusercontent.com/KKKKKK66666688/douban-hub/refs/heads/main/douban.json
+https://tv.crossborderhelper.top/douban.json
 ```
 
 ## 文件
@@ -28,7 +28,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/KKKKKK66666688/douban-hub
 
 ## 本次打包
 
-- 打包时间：2026-10-27 09:41
+- 打包时间：2026-10-27 11:31
 - 站点数：201（已排除含登录凭据的站点：┃哔哩┃影视（key 哔哩弹幕，人工列入排除名单））
 - 直播分组：7 组
-- douban.js：910,461 字节，sha256 B3A90F3FC4B71FA9DE0209188596538BFB42534CDA529335BCCD9344D1F432AA
+- douban.js：910,366 字节，sha256 DC83CB3D31C0281FBF7621888C5280102390FAFA2F0F3FBCB6F56AADE5657285
