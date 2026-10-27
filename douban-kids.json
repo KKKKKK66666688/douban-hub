@@ -5,10 +5,10 @@
   "sites": [
     {
       "key": "douban_kids",
-      "name": "豆瓣┃儿童 · 10-27 17:13 更新",
+      "name": "豆瓣┃儿童 · 10-27 18:12 更新",
       "type": 3,
       "api": "https://tv.crossborderhelper.top/drpy2.min.js",
-      "ext": "https://tv.crossborderhelper.top/douban-kids.js?v=1793092420082",
+      "ext": "https://tv.crossborderhelper.top/douban-kids.js?v=1793095929129",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
