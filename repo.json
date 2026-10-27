@@ -1,0 +1,17 @@
+{
+ "name": "豆影数据源",
+ "urls": [
+  {
+   "name": "豆影·精选（成人）",
+   "url": "https://tv.crossborderhelper.top/douban.json"
+  },
+  {
+   "name": "豆影·儿童版",
+   "url": "https://tv.crossborderhelper.top/douban-kids.json"
+  },
+  {
+   "name": "豆影·老年版",
+   "url": "https://tv.crossborderhelper.top/douban-elder.json"
+  }
+ ]
+}
