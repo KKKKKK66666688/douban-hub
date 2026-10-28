@@ -5,10 +5,10 @@
   "sites": [
     {
       "key": "douban_kids",
-      "name": "豆瓣┃儿童 · 10-28 12:58 更新",
+      "name": "豆瓣┃儿童 · 10-28 15:17 更新",
       "type": 3,
       "api": "https://tv.crossborderhelper.top/drpy2.min.js",
-      "ext": "https://tv.crossborderhelper.top/douban-kids.js?v=1793163509129",
+      "ext": "https://tv.crossborderhelper.top/douban-kids.js?v=1793171832083",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -176,6 +176,12 @@
     "images.67c6c7a.com=fan.cloudflare.182682.xyz"
   ],
   "lives": [
+    {
+      "name": "豆瓣直播（配置内置）",
+      "type": 0,
+      "url": "https://tv.crossborderhelper.top/live.txt",
+      "playerType": 1
+    },
     {
       "group": "央视",
       "channels": [
