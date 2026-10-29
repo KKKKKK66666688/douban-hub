@@ -5,10 +5,10 @@
   "sites": [
     {
       "key": "douban_hub",
-      "name": "豆瓣┃精选 · 10-29 16:24 更新",
+      "name": "豆瓣┃精选 · 10-29 17:50 更新",
       "type": 3,
       "api": "https://tv.crossborderhelper.top/drpy2.min.js",
-      "ext": "https://tv.crossborderhelper.top/douban.js?v=202610291624",
+      "ext": "https://tv.crossborderhelper.top/douban.js?v=202610291750",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -21,10 +21,10 @@
     },
     {
       "key": "douban_kids",
-      "name": "豆瓣┃儿童 · 10-29 16:24 更新",
+      "name": "豆瓣┃儿童 · 10-29 17:50 更新",
       "type": 3,
       "api": "https://tv.crossborderhelper.top/drpy2.min.js",
-      "ext": "https://tv.crossborderhelper.top/douban-kids.js?v=202610291624",
+      "ext": "https://tv.crossborderhelper.top/douban-kids.js?v=202610291750",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -37,10 +37,10 @@
     },
     {
       "key": "douban_elder",
-      "name": "豆瓣┃老年 · 10-29 16:24 更新",
+      "name": "豆瓣┃老年 · 10-29 17:50 更新",
       "type": 3,
       "api": "https://tv.crossborderhelper.top/drpy2.min.js",
-      "ext": "https://tv.crossborderhelper.top/douban-elder.js?v=202610291624",
+      "ext": "https://tv.crossborderhelper.top/douban-elder.js?v=202610291750",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -66,6 +66,28 @@
         "cookie": ""
       },
       "jar": "https://www.252035.xyz/p/pg.jar"
+    },
+    {
+      "key": "huavod_4k",
+      "name": "华视┃4K",
+      "type": 3,
+      "api": "https://tv.crossborderhelper.top/drpy2.min.js",
+      "ext": "https://tv.crossborderhelper.top/huavod.js?v=202610291750",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "yfsp_vod",
+      "name": "爱壹帆┃海外",
+      "type": 3,
+      "api": "https://tv.crossborderhelper.top/drpy2.min.js",
+      "ext": "https://tv.crossborderhelper.top/yfsp.js?v=202610291750",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
     },
     {
       "key": "光影",
@@ -2700,6 +2722,20 @@
       "regex": [
         "#EXTINF:4\\.866[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n(?:#EXT-X-DISCONTINUITY[^\\r\\n]*\\r?\\n)*#EXTINF:3\\.333[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n(?:#EXT-X-DISCONTINUITY[^\\r\\n]*\\r?\\n)*#EXTINF:5\\.600[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n(?:#EXT-X-DISCONTINUITY[^\\r\\n]*\\r?\\n)*#EXTINF:2\\.866[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n(?:#EXT-X-DISCONTINUITY[^\\r\\n]*\\r?\\n)*#EXTINF:2\\.966[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n",
         "#EXTINF:6\\.96[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n(?:#EXT-X-DISCONTINUITY[^\\r\\n]*\\r?\\n)*#EXTINF:4\\.000[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n(?:#EXT-X-DISCONTINUITY[^\\r\\n]*\\r?\\n)*#EXTINF:2\\.56[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n(?:#EXT-X-DISCONTINUITY[^\\r\\n]*\\r?\\n)*#EXTINF:3\\.84[^\\r\\n]*\\r?\\n[^\\r\\n]*\\.ts[^\\r\\n]*\\r?\\n"
+      ]
+    },
+    {
+      "name": "优质超清-广告",
+      "hosts": [
+        "yzzy",
+        "playback",
+        "play-cdn"
+      ],
+      "regex": [
+        "16.63",
+        "18.66",
+        "17.66",
+        "19.13"
       ]
     }
   ],
