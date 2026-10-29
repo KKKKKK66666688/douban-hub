@@ -28,7 +28,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/KKKKKK66666688/douban-hub
 
 ## 本次打包
 
-- 打包时间：2026-10-29 12:24
+- 打包时间：2026-10-29 12:49
 - 站点数：202（已排除含登录凭据的站点：┃哔哩┃影视（key 哔哩弹幕，人工列入排除名单））
 - 直播分组：8 组
-- douban.js：1,470,569 字节，sha256 26EEBCB8880A0F46BA670AA1E2FC3A7AA3E1172B39E56BDD2ADE1AD17E78D739
+- douban.js：1,288,941 字节，sha256 D5D08A8183DD23ED853BF78A23FBC8A7795B06D44BA8516C07910D19F1E35F83
