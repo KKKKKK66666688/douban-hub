@@ -2,8 +2,12 @@
  "name": "豆影数据源",
  "urls": [
   {
-   "name": "豆影·精选（成人）",
+   "name": "豆影·精选（本地全量版）",
    "url": "https://tv.crossborderhelper.top/douban.json"
+  },
+  {
+   "name": "豆影·精选（云端极速版）",
+   "url": "https://tv.crossborderhelper.top/douban-cloud.json"
   },
   {
    "name": "豆影·儿童版",
