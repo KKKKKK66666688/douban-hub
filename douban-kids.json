@@ -5,10 +5,10 @@
   "sites": [
     {
       "key": "douban_kids",
-      "name": "豆瓣┃儿童 · 10-31 17:57 更新",
+      "name": "豆瓣┃儿童 · 10-31 20:04 更新",
       "type": 3,
       "api": "https://tv.crossborderhelper.top/drpy2.min.js",
-      "ext": "https://tv.crossborderhelper.top/douban-kids.js?v=202610311757",
+      "ext": "https://tv.crossborderhelper.top/douban-kids.js?v=202610312004",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -18,19 +18,6 @@
         "ratio": 1.33
       },
       "filterable": 1
-    },
-    {
-      "key": "Aid",
-      "name": "急救┃教学",
-      "type": 3,
-      "api": "csp_FirstAidGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      }
     },
     {
       "key": "少儿教育",
