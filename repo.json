@@ -1,21 +1,29 @@
 {
- "name": "豆影数据源",
- "urls": [
-  {
-   "name": "豆影·精选（本地全量版）",
-   "url": "https://tv.crossborderhelper.top/douban.json"
-  },
-  {
-   "name": "豆影·精选（云端极速版）",
-   "url": "https://tv.crossborderhelper.top/douban-cloud.json"
-  },
-  {
-   "name": "豆影·儿童版",
-   "url": "https://tv.crossborderhelper.top/douban-kids.json"
-  },
-  {
-   "name": "豆影·老年版",
-   "url": "https://tv.crossborderhelper.top/douban-elder.json"
-  }
- ]
+  "name": "豆影全系列数据源",
+  "urls": [
+    {
+      "name": "【云端专属】豆影·精选（纯云端·旧版推荐）",
+      "url": "https://tv.crossborderhelper.top/douban-cloud.json"
+    },
+    {
+      "name": "【云端专属】豆影·儿童（纯云端·旧版推荐）",
+      "url": "https://tv.crossborderhelper.top/douban-kids-cloud.json"
+    },
+    {
+      "name": "【云端专属】豆影·老年（纯云端·旧版推荐）",
+      "url": "https://tv.crossborderhelper.top/douban-elder-cloud.json"
+    },
+    {
+      "name": "【本地双轨】豆影·精选（V18秒开版）",
+      "url": "https://tv.crossborderhelper.top/douban.json"
+    },
+    {
+      "name": "【本地双轨】豆影·儿童（V18秒开版）",
+      "url": "https://tv.crossborderhelper.top/douban-kids.json"
+    },
+    {
+      "name": "【本地双轨】豆影·老年（V18秒开版）",
+      "url": "https://tv.crossborderhelper.top/douban-elder.json"
+    }
+  ]
 }
