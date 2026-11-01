@@ -4,11 +4,27 @@
  "logo": "https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",
  "sites": [
   {
+   "key": "douban_elder_local",
+   "name": "豆瓣┃老年(本地) · 11-01 23:36 更新",
+   "type": 3,
+   "api": "assets://douban_hub/drpy2.min.js",
+   "ext": "assets://douban_hub/douban-elder.js",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 0,
+   "indexs": 1,
+   "style": {
+    "type": "rect",
+    "ratio": 1.33
+   },
+   "filterable": 1
+  },
+  {
    "key": "douban_elder",
-   "name": "豆瓣┃老年版",
+   "name": "豆瓣┃老年 · 11-01 23:36 更新",
    "type": 3,
    "api": "https://tv.crossborderhelper.top/drpy2.min.js",
-   "ext": "https://tv.crossborderhelper.top/douban-elder.js?v=202611012241",
+   "ext": "https://tv.crossborderhelper.top/douban-elder.js?v=202611012336",
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
@@ -43,22 +59,6 @@
    "ext": "https://tv.crossborderhelper.top/douban-kids.js?v=202611012241",
    "searchable": 0,
    "quickSearch": 0,
-   "changeable": 0,
-   "indexs": 1,
-   "style": {
-    "type": "rect",
-    "ratio": 1.33
-   },
-   "filterable": 1
-  },
-  {
-   "key": "douban_hub_local",
-   "name": "豆瓣┃精选(本地) · 11-01 22:41 更新",
-   "type": 3,
-   "api": "assets://douban_hub/drpy2.min.js",
-   "ext": "assets://douban_hub/douban.js",
-   "searchable": 1,
-   "quickSearch": 1,
    "changeable": 0,
    "indexs": 1,
    "style": {
