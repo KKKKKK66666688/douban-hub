@@ -1,0 +1,21 @@
+{
+  "version": 202611031152,
+  "source_version": 202611031152,
+  "variant": "elder",
+  "name": "豆瓣┃老年(本地) · 11-03 11:52 更新",
+  "size": 926604,
+  "sha256": "B8527F56CB2107E8E65C86FF5AD84B93F78F762C628FA36BF18C79EC255B8442",
+  "gz_size": 182584,
+  "gz_sha256": "19623D337D44F371571287430EB6ADDFCBED835FECCD3D50CCDE2A75EF70E6D0",
+  "cfg_size": 256204,
+  "cfg_sha256": "00438D21C28A49EC8358DD2A8996C23E2CBB770E36B0AA50A8BFE26E6E4C56BD",
+  "site_count": 203,
+  "updated_at": "2026-11-03T03:52:49.454Z",
+  "generated_at": "2026-11-04 02:44:39",
+  "sites": [
+    {
+      "key": "v20_elder_ver",
+      "name": "V20 老年版数据版本"
+    }
+  ]
+}
