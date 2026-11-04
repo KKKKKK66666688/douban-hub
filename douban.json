@@ -24,7 +24,7 @@
       "name": "豆瓣┃精选 · 11-03 11:52 更新",
       "type": 3,
       "api": "https://tv.crossborderhelper.top/drpy2.min.js",
-      "ext": "https://tv.crossborderhelper.top/douban.js?v=202611031152",
+      "ext": "https://tv.crossborderhelper.top/douban-cloud.js?v=202611031152",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
