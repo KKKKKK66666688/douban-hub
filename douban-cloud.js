@@ -19,7 +19,7 @@ var rule = {
         "movie_top250": 13,
         "movie_american_top": 38,
         "movie_chinese_top": 50,
-        "tv_chinese_top": 46,
+        "tv_chinese_top": 47,
         "tv_american_top": 39,
         "tv_korean_top": 27,
         "show_top": 23,
