@@ -1,0 +1,21 @@
+{
+  "version": 202611031152,
+  "source_version": 202611031152,
+  "variant": "kids",
+  "name": "豆瓣┃儿童(本地) · 11-03 11:52 更新",
+  "size": 562841,
+  "sha256": "6CAE890A22DA771CE8772F3C16B0BAF965B45C27515291FD5735FCF0847E6734",
+  "gz_size": 112049,
+  "gz_sha256": "243A750AAAEA270B4E0B90531741A009F57969F60C82DBE5560F9F8C0629CBF6",
+  "cfg_size": 176564,
+  "cfg_sha256": "DC9DF438705C49DF839F45EBCC9236BC6939760842CB020AF4EF256E30253390",
+  "site_count": 6,
+  "updated_at": "2026-11-03T03:52:49.454Z",
+  "generated_at": "2026-11-04 02:44:21",
+  "sites": [
+    {
+      "key": "v20_kids_ver",
+      "name": "V20 儿童版数据版本"
+    }
+  ]
+}
