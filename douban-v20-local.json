@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "douban_hub_local",
-      "name": "豆瓣┃精选(本地) · 11-04 15:11 更新",
+      "name": "豆瓣┃精选(本地) · 11-04 15:27 更新",
       "type": 3,
       "api": "assets://douban_hub/drpy2.min.js",
       "ext": "assets://douban_hub/douban.js",
@@ -21,7 +21,7 @@
     },
     {
       "key": "douban_hub",
-      "name": "豆瓣┃精选 · 11-04 15:11 更新",
+      "name": "豆瓣┃精选 · 11-04 15:27 更新",
       "type": 3,
       "api": "https://tv.crossborderhelper.top/drpy2.min.js",
       "ext": "https://tv.crossborderhelper.top/douban-cloud.js?v=202611041303",
@@ -37,7 +37,7 @@
     },
     {
       "key": "douban_kids",
-      "name": "豆瓣┃儿童 · 11-04 15:11 更新",
+      "name": "豆瓣┃儿童 · 11-04 15:27 更新",
       "type": 3,
       "api": "https://tv.crossborderhelper.top/drpy2.min.js",
       "ext": "https://tv.crossborderhelper.top/douban-kids.js?v=202611041303",
@@ -53,7 +53,7 @@
     },
     {
       "key": "douban_elder",
-      "name": "豆瓣┃老年 · 11-04 15:11 更新",
+      "name": "豆瓣┃老年 · 11-04 15:27 更新",
       "type": 3,
       "api": "https://tv.crossborderhelper.top/drpy2.min.js",
       "ext": "https://tv.crossborderhelper.top/douban-elder.js?v=202611041303",
