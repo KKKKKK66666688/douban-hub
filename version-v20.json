@@ -1,17 +1,17 @@
 {
-  "version": 202611041220,
+  "version": 202611041229,
   "source_version": 202611031152,
   "source_sha256": "3A840513E3FED62D6C1D08835C85EA0595D97B38F4DE515C61A1930CC818F12A",
-  "name": "豆瓣┃精选(本地) · 11-04 12:20 更新",
+  "name": "豆瓣┃精选(本地) · 11-04 12:29 更新",
   "size": 1777231,
   "sha256": "B839791CCE7BE8FE2D0FE5601DFAD55180ED5E1376C6E542D0547795E75426FD",
   "gz_size": 324542,
   "gz_sha256": "019589288AB1F520315C1F57FECDBDE03C17C898E6BEC43D63988CA8FA450189",
-  "cfg_size": 256170,
-  "cfg_sha256": "1EAF99226530E612BF0828773F30B7EFAFDB5C632B765FB9F2ADF5F108D75C2B",
+  "cfg_size": 256176,
+  "cfg_sha256": "D88D5606312CDF0B4B378DF87771C95A2F0F9272BF48E7AB49B2D5C74E214373",
   "pool_counts": "movie_hot_recent:163, tv_hot_popular:220, tv_animation_hot:208, movie_top250:250, movie_american_top:751, movie_chinese_top:989, tv_chinese_top:916, tv_american_top:767, tv_korean_top:540, show_top:457, anime_top:568, movie_anime_top:475, documentary_top:558, interview:145",
   "updated_at": "2026-11-03T03:52:49.454Z",
-  "generated_at": "2026-11-04T04:20:11.471Z",
+  "generated_at": "2026-11-04T04:29:35.076Z",
   "test_bump": true,
   "sites": [
     {
