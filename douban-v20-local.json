@@ -1,11 +1,11 @@
 {
   "spider": "https://tv.crossborderhelper.top/spider-fty.jar;md5;b55978c4fe6d12e2fea9075f17c8a67a",
-  "wallpaper": "https://cdn.jsdelivr.net/gh/KKKKKK66666688/douban-hub@main/bg.jpg",
+  "wallpaper": "https://tv.crossborderhelper.top/bg.jpg",
   "logo": "https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",
   "sites": [
     {
       "key": "douban_hub_local",
-      "name": "豆瓣┃精选(本地) · 11-04 10:29 更新",
+      "name": "豆瓣┃精选(本地) · 11-04 11:38 更新",
       "type": 3,
       "api": "assets://douban_hub/drpy2.min.js",
       "ext": "assets://douban_hub/douban.js",
