@@ -15,7 +15,7 @@ var rule = {
     pagecount: {
         "movie_hot_recent": 9,
         "tv_hot_popular": 11,
-        "tv_animation_hot": 11,
+        "tv_animation_hot": 10,
         "movie_top250": 13,
         "movie_american_top": 38,
         "movie_chinese_top": 50,
