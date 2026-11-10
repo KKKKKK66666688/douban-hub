@@ -21,12 +21,12 @@ var rule = {
         "movie_chinese_top": 50,
         "tv_chinese_top": 47,
         "tv_american_top": 39,
-        "tv_korean_top": 28,
+        "tv_korean_top": 27,
         "show_top": 24,
         "anime_top": 29,
         "movie_anime_top": 24,
         "documentary_top": 29,
-        "interview": 7,
+        "interview": 4,
         "discover": 330
     },
     headers: {
