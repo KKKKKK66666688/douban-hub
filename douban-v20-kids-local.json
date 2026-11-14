@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "douban_kids_local",
-      "name": "豆影儿童(本地) · 11-13 12:07 更新",
+      "name": "豆影儿童(本地) · 11-14 12:01 更新",
       "type": 3,
       "api": "assets://douban_hub/drpy2.min.js",
       "ext": "assets://douban_hub/douban-kids.js",
@@ -21,10 +21,10 @@
     },
     {
       "key": "douban_kids",
-      "name": "豆影儿童(云端极速) · 11-13 12:07 更新",
+      "name": "豆影儿童(云端极速) · 11-14 12:01 更新",
       "type": 3,
       "api": "https://tv.crossborderhelper.top/drpy2.min.js",
-      "ext": "https://tv.crossborderhelper.top/douban-kids.js?v=202611131207",
+      "ext": "https://tv.crossborderhelper.top/douban-kids.js?v=202611141201",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
