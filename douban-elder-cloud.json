@@ -5,10 +5,10 @@
   "sites": [
     {
       "key": "douban_elder_cloud",
-      "name": "豆瓣┃老年(云端专属) · 11-13 12:07 更新",
+      "name": "豆瓣┃老年(云端专属) · 11-14 12:01 更新",
       "type": 3,
       "api": "https://tv.crossborderhelper.top/drpy2.min.js",
-      "ext": "https://tv.crossborderhelper.top/douban-elder.js?v=202611131207",
+      "ext": "https://tv.crossborderhelper.top/douban-elder.js?v=202611141201",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -21,10 +21,10 @@
     },
     {
       "key": "douban_hub",
-      "name": "豆瓣┃精选 · 11-13 12:07 更新",
+      "name": "豆瓣┃精选 · 11-14 12:01 更新",
       "type": 3,
       "api": "https://tv.crossborderhelper.top/drpy2.min.js",
-      "ext": "https://tv.crossborderhelper.top/douban-cloud.js?v=202611131207",
+      "ext": "https://tv.crossborderhelper.top/douban-cloud.js?v=202611141201",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -37,10 +37,10 @@
     },
     {
       "key": "douban_kids",
-      "name": "豆瓣┃儿童 · 11-13 12:07 更新",
+      "name": "豆瓣┃儿童 · 11-14 12:01 更新",
       "type": 3,
       "api": "https://tv.crossborderhelper.top/drpy2.min.js",
-      "ext": "https://tv.crossborderhelper.top/douban-kids.js?v=202611131207",
+      "ext": "https://tv.crossborderhelper.top/douban-kids.js?v=202611141201",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
