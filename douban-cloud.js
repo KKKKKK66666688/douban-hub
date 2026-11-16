@@ -14,7 +14,7 @@ var rule = {
     filterable: 0,
     pagecount: {
         "movie_hot_recent": 9,
-        "tv_hot_popular": 10,
+        "tv_hot_popular": 11,
         "tv_animation_hot": 11,
         "movie_top250": 13,
         "movie_american_top": 39,
@@ -23,8 +23,8 @@ var rule = {
         "tv_american_top": 39,
         "tv_korean_top": 28,
         "show_top": 24,
-        "anime_top": 29,
-        "movie_anime_top": 24,
+        "anime_top": 30,
+        "movie_anime_top": 25,
         "documentary_top": 29,
         "interview": 8,
         "discover": 330
