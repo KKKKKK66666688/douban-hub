@@ -28,7 +28,7 @@ https://tv.crossborderhelper.top/douban.json
 
 ## 本次打包
 
-- 打包时间：2026-11-14 12:01
+- 打包时间：2026-11-16 21:27
 - 站点数：203（已排除含登录凭据的站点：┃哔哩┃影视（key 哔哩弹幕，人工列入排除名单））
 - 直播分组：8 组
-- douban.js：481,805 字节，sha256 3E6F2D533534F33026DF4E574FFFC2A88C19CAEE3369662E171315AC5A202685
+- douban.js：483,341 字节，sha256 70DAD1629A0F4990AF4FD0EE98D7A2A8AA587673347A0747C86CC79341EE9458
