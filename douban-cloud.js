@@ -13,7 +13,7 @@ var rule = {
     quickSearch: 1,
     filterable: 0,
     pagecount: {
-        "movie_hot_recent": 9,
+        "movie_hot_recent": 8,
         "tv_hot_popular": 11,
         "tv_animation_hot": 11,
         "movie_top250": 13,
@@ -26,7 +26,7 @@ var rule = {
         "anime_top": 30,
         "movie_anime_top": 25,
         "documentary_top": 29,
-        "interview": 8,
+        "interview": 7,
         "discover": 330
     },
     headers: {
