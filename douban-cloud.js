@@ -20,11 +20,11 @@ var rule = {
         "movie_american_top": 39,
         "movie_chinese_top": 50,
         "tv_chinese_top": 48,
-        "tv_american_top": 39,
+        "tv_american_top": 40,
         "tv_korean_top": 28,
         "show_top": 24,
         "anime_top": 30,
-        "movie_anime_top": 25,
+        "movie_anime_top": 24,
         "documentary_top": 29,
         "interview": 7,
         "discover": 330
