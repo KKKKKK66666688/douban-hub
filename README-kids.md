@@ -44,7 +44,7 @@ https://tv.crossborderhelper.top/douban-kids.json
 
 ## 本次打包
 
-- 打包时间：2026-11-21 11:49
+- 打包时间：2026-11-22 13:34
 - 站点数：5（key douban_kids + 少儿教育/小学课堂/初中课堂/高中教育）
 - 直播分组：8 组
-- douban-kids.js：565,026 字节，sha256 1577BE7DEB234F458865FEA8407440812BF6B2A682101E6FAAC4D0954D5BE807
+- douban-kids.js：560,642 字节，sha256 B473B6326400BFCE1E7C34B0B05D88C6467F15DDBED90E2131C94A25751FC343
