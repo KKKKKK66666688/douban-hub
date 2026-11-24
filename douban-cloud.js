@@ -18,7 +18,7 @@ var rule = {
         "tv_animation_hot": 11,
         "movie_top250": 13,
         "movie_american_top": 39,
-        "movie_chinese_top": 50,
+        "movie_chinese_top": 51,
         "tv_chinese_top": 48,
         "tv_american_top": 40,
         "tv_korean_top": 28,
@@ -26,7 +26,7 @@ var rule = {
         "anime_top": 30,
         "movie_anime_top": 24,
         "documentary_top": 29,
-        "interview": 7,
+        "interview": 8,
         "discover": 330
     },
     headers: {
