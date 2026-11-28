@@ -25,8 +25,8 @@ var rule = {
         "show_top": 24,
         "anime_top": 30,
         "movie_anime_top": 24,
-        "documentary_top": 29,
-        "interview": 8,
+        "documentary_top": 30,
+        "interview": 7,
         "discover": 330
     },
     headers: {
